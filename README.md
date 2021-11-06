@@ -1,4 +1,5 @@
 # Prototype-of-Amazon-Anazon
 
 
-![Anazon](https://user-images.githubusercontent.com/60350031/140611093-dabe85c7-23b7-4041-aebf-dca2fc3461a3.png)
+![Ana1](https://user-images.githubusercontent.com/60350031/140611321-5080c481-7f7f-47f5-a5de-75e54208fa04.png)
+
